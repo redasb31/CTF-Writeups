@@ -16,6 +16,7 @@
 ## Challenge Files
 - **[`chall.py`](chall.py)** (Challenge code)  
 - **[`solver.py`](solver.py)** (Solution script)
+- **[`speck.py`](speck.py)**: Speck cipher implementation.
 
 ---
 
@@ -94,10 +95,3 @@ def decrypt(enc : bytes, k1 : bytes, k2 : bytes):
 
 ## Flag
 `ENO{3ven_m3ns0ur_re3l1y_1s_s3cur3_f0r_4_PRF}`  
-
----
-
-## Assets
-- **[`chall.py`](chall.py)**: Original challenge code.  
-- **[`solver.py`](solver.py)**: Full solve script. 
-- **[`speck.py`](speck.py)**: Speck cipher implementation.

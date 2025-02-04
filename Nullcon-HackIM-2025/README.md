@@ -1,6 +1,6 @@
 # Nullcon Goa HackIM 2025 CTF Writeup
 
-**Team**: [noreply](https://ctftime.org/team/12345) (4th Place 🏆)  
+**Team**: [noreply](https://ctftime.org/team/210760) (4th Place 🏆)  
 **Event Date**: 01–02 Feb 2025  
 **Format**: Jeopardy  
 **URL**: [CTFtime](https://ctftime.org/event/2642)  
