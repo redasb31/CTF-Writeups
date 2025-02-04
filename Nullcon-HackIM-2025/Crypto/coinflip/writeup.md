@@ -1,4 +1,4 @@
-# **Cubic Random Generator (CRG) Writeup**
+# **Coinflip Writeup**
 **Category**: Cryptography  
 **Points**: 212  
 **Solves**: 41  
